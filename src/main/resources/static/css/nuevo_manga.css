@@ -1,0 +1,27 @@
+
+.regis{
+	border-radius:20px;
+	padding:30px;
+	background-color: rgb(180, 180, 180, 0.85);
+}
+
+.portada{
+	width:85px;
+}
+body {
+	background-image: url("https://wallpaperaccess.com/full/495291.jpg");
+	background-size: cover; 
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	overflow: scroll;
+	
+}
+h1{
+	color: black;
+}
+label{
+	color: black;
+}
+textarea {
+    resize: none;
+}
