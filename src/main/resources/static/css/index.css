@@ -4,6 +4,23 @@ body{
 	
 }
 
-body {
-	background-color: silver;
+.inicio{
+    margin-top:150px;
+}
+
+.titulo{
+    color:gray;
+    font-size:120px;
+    font-family:serif;
+}
+.subtitulo{
+    color:gray;
+    font-size:50px;
+    font-family:serif;
+}
+
+.nombres{
+    color:gray;
+    font-size:40px;
+    font-family:serif;
 }
